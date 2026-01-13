@@ -18,10 +18,6 @@ Based on the above I have formulated cluster personas and have recommended some 
 
 A detailed overview of customer segments to guide marketing, engagement, and retention strategies.
 
-# Customer Cluster Personas
-
-A detailed overview of customer segments to guide marketing, engagement, and retention strategies.
-
 ---
 
 | **Cluster Name** | **Profile Summary** | **Key Characteristics** | **Business Insight** | **Recommended Strategy** |

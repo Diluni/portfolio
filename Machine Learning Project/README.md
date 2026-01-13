@@ -1,4 +1,5 @@
-![Customer Segmentation Banner](assets/banner.png)
+![Customer Segmentation Banner](Machine Learning Project/assets/banner.png)
+
 
 Overview
 

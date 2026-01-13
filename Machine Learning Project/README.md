@@ -1,5 +1,6 @@
-![Customer Segmentation Banner](Machine Learning Project/assets/banner.png)
-
+<p align="center">
+  <img src="https://github.com/Diluni/portfolio/blob/main/Machine%20Learning%20Project/Assets/project-banner.png" alt="Project Banner" width="100%">
+</p>
 
 Overview
 

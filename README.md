@@ -42,11 +42,11 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ## 🧾 Professional Certifications
 
-- **CGMA, ACMA – Chartered Institute of Management Accountants (CIMA)** (2024)  
-- **IMF – National Accounts Statistics Certificate** (2025)  
-- **Certified Scrum Product Owner (CSPO)**  
-- **Power BI Data Modeling with DAX**  
-- **Complete Data Analyst Bootcamp with Python**
+- **CGMA, ACMA – Chartered Institute of Management Accountants (CIMA)** (2025)  
+- **IMF – National Accounts Statistics Certificate- Edx** (2025)  
+- **Certified Scrum Product Owner (CSPO)- Scrum Alliance** (2022)
+- **Power BI Data Modeling with DAX- LinkedIn Learning** (2025)
+- **Complete Data Analyst Bootcamp with Python- Udemy** (2024)
 
 ---
 
@@ -103,12 +103,12 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ## 📊 Selected Projects
 
-### 🔍 Labor Market Intelligence using NLP
+### Labor Market Intelligence using NLP
 - Web-scraped job advertisements to extract skills, education, and salary insights  
 - Applied regex, Keras, and TensorFlow for entity extraction  
 - Visualized labor market trends using Power BI  
 
-### 📉 Employee Turnover Prediction
+### Employee Turnover Prediction
 - Built supervised ML models to predict employee attrition  
 - Cleaned and processed large unstructured datasets  
 - Delivered actionable insights for HR workforce planning  

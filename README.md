@@ -2,13 +2,13 @@
 **Data Analyst | Business Analyst**
 
 📍 Philippines
-📧 diluni.s.peiris@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/diluni-peiris)  
+📧 diluni.s.peiris@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/diluni-peiris)
 🐙 [GitHub](https://github.com/diluni)
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a data-driven professional with experience spanning **data science, business analytics, financial systems, and product ownership**. I most recently worked as a **Senior Business Analyst** at the London Stock Exchange Group.
 
@@ -16,9 +16,9 @@ My interests lie at the intersection of **data analytics, machine learning, fina
 
 ---
 
-## 🎓 Education
+## Education
 
-### 🎓 George Washington University  
+### George Washington University  
 **MSc in Data Science** *(Expected Dec 2026)*  
 **Relevant Coursework:**  
 - Introduction to Data Science  
@@ -27,7 +27,7 @@ My interests lie at the intersection of **data analytics, machine learning, fina
 
 ---
 
-### 🎓 University of Moratuwa  
+### University of Moratuwa  
 **BSc (First Class Honors) in Business Science – Business Analytics**  
 GPA: **3.98 / 4.20**  
 **Relevant Coursework:**  
@@ -35,22 +35,22 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-### 🎓 Colombo Institute of Research & Psychology  
+### Colombo Institute of Research & Psychology  
 **Diploma in Business & Organizational Psychology**
 
 ---
 
-## 🧾 Professional Certifications
+## Professional Certifications
 
 - **CGMA, ACMA – Chartered Institute of Management Accountants (CIMA)** (2025)  
 - **IMF – National Accounts Statistics Certificate- Edx** (2025)  
-- **Certified Scrum Product Owner (CSPO)- Scrum Alliance** (2022)
 - **Power BI Data Modeling with DAX- LinkedIn Learning** (2025)
 - **Complete Data Analyst Bootcamp with Python- Udemy** (2024)
+- **Certified Scrum Product Owner (CSPO)- Scrum Alliance** (2022)
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Programming & Data**  
 - Python, R, SQL  
@@ -69,9 +69,9 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 💼 London Stock Exchange Group — *Senior Business Analyst*  
+### London Stock Exchange Group — *Senior Business Analyst*  
 **Nov 2023 – Aug 2024**
 
 - Product owner for FTSE and Russell Index components  
@@ -82,7 +82,7 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-### 💼 London Stock Exchange Group — *Business Analyst*  
+### London Stock Exchange Group — *Business Analyst*  
 **Dec 2021 – Oct 2023**
 
 - Automated financial statement and ratio analysis for index eligibility  
@@ -92,7 +92,7 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-### 💼 Dialog Axiata PLC — *Intern Data Analyst*  
+### Dialog Axiata PLC — *Intern Data Analyst*  
 **Jun 2021 – Nov 2021**
 
 - Built time-series sales forecasting models using FBProphet  
@@ -101,7 +101,7 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-## 📊 Selected Projects
+## Selected Projects
 
 ### Labor Market Intelligence using NLP
 - Web-scraped job advertisements to extract skills, education, and salary insights  
@@ -117,14 +117,14 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **English** – Fluent  
 - **Sinhala** – Native  
 
 ---
 
-## 🤝 Volunteering
+## Volunteering
 
 - Sunday School Teacher – St. Joseph’s Church, Ratmalana  
 - AIESEC Colombo South – Organizing Committee (Finance)  
@@ -132,15 +132,14 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 
 ---
 
-## 📌 What I’m Currently Working On
+## What I’m Currently Working On
 
 - Advanced data science coursework  
 - Expanding my ML and NLP project portfolio  
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 If you’re interested in **data science, analytics, ERP systems, or collaborative projects**, feel free to reach out via email or LinkedIn.
 
-⭐ *If you like my work, consider starring my repositories!*  

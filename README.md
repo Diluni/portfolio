@@ -5,6 +5,7 @@
 📧 diluni.s.peiris@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/diluni-peiris)
 🐙 [GitHub](https://github.com/diluni)
+🌐 [Portfolio Website](https://diluni.github.io/portfolio/)
 
 ---
 
@@ -113,8 +114,6 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 - Cleaned and processed large unstructured datasets  
 - Delivered actionable insights for HR workforce planning  
 
-*(Project repositories coming soon)*
-
 ---
 
 ## Languages
@@ -135,8 +134,13 @@ Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Fina
 ## What I’m Currently Working On
 
 - Advanced data science coursework  
-- Expanding my ML and NLP project portfolio  
-
+- Expanding my ML and NLP project portfolio   
+      Repo Links:     
+        -  [EDA Project](https://github.com/Diluni/portfolio/tree/main/EDA%20Project)   
+        -  [Machine Learning Project](https://github.com/Diluni/portfolio/tree/main/Machine%20Learning%20Project)   
+        -  Power BI Dashboard - Coming soon!  
+  
+  
 ---
 
 ## Let’s Connect

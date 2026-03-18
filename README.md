@@ -5,7 +5,7 @@
 📧 diluni.s.peiris@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/diluni-peiris)
 🐙 [GitHub](https://github.com/diluni)
-🌐 [Portfolio Website](https://diluni.github.io/portfolio/)
+
 
 ---
 
@@ -15,135 +15,37 @@ I am a data-driven professional with experience spanning **data science, busines
 
 My interests lie at the intersection of **data analytics, machine learning, financial systems, and decision support**, with hands-on experience in translating complex business problems into scalable technical solutions.
 
----
-
-## Education
-
-### George Washington University  
-**MSc in Data Science** *(Expected Dec 2026)*  
-**Relevant Coursework:**  
-- Introduction to Data Science  
-- Data Warehousing  
-- Data Mining  
+My CV and additional details are available on my [personal website](https://diluni.github.io/portfolio/)
 
 ---
 
-### University of Moratuwa  
-**BSc (First Class Honors) in Business Science – Business Analytics**  
-GPA: **3.98 / 4.20**  
-**Relevant Coursework:**  
-Macroeconomics, Probability & Statistics, Linear Algebra, Machine Learning, Financial Econometrics, Data Visualization, Database Management
+## Personal Data Analytics Portfolio
 
----
+### Project 1: Customer Personality Analysis — EDA & Marketing Insights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
 
-### Colombo Institute of Research & Psychology  
-**Diploma in Business & Organizational Psychology**
+#### Overview
+Performed end-to-end exploratory data analysis on a 2,000+ customer dataset using the 4 P's of marketing framework (People, Product, Place, Promotions) to uncover actionable customer insights that help organizations move from broad outreach to targeted, data-driven campaign strategies.
 
----
+#### Key Contributions
+- Engineered demographic and behavioral features including family size, customer tenure, and recency-based engagement categories
+- Analyzed spending patterns across six product categories, identifying wines and meat as the highest-spend segments
+- Evaluated marketing campaign acceptance rates across the customer base
+- Mapped purchase channel distribution across in-store, web, and catalog touchpoints
 
-## Professional Certifications
+#### Outcomes
+- Revealed broadly low campaign engagement (~16% acceptance rate), flagging the need for more targeted and personalized campaign strategies
+- Identified in-store as the dominant purchase channel (~46%) with a strong secondary signal in web (~33%) and high website visit frequency among engaged customers
+- Delivered a clean, feature-rich dataset ready for downstream clustering and customer personalization modeling
 
-- **CGMA, ACMA – Chartered Institute of Management Accountants (CIMA)** (2025)  
-- **IMF – National Accounts Statistics Certificate- Edx** (2025)  
-- **Power BI Data Modeling with DAX- LinkedIn Learning** (2025)
-- **Complete Data Analyst Bootcamp with Python- Udemy** (2024)
-- **Certified Scrum Product Owner (CSPO)- Scrum Alliance** (2022)
+#### Project Location : [EDA Project](https://diluni.github.io/portfolio/EDA_Project)
 
----
 
-## Technical Skills
-
-**Programming & Data**  
-- Python, R, SQL  
-- Statistical Modeling, Machine Learning, NLP, Deep Learning  
-
-**Analytics & Visualization**  
-- Power BI (DAX), Tableau, Excel  
-
-**Data & Cloud**  
-- AWS SageMaker  
-- Database Management, Data Warehousing  
-
-**Product & Delivery**  
-- GitHub, JIRA, Confluence  
-- Agile / Scrum Practices  
-
----
-
-## Professional Experience
-
-### London Stock Exchange Group — *Senior Business Analyst*  
-**Nov 2023 – Aug 2024**
-
-- Product owner for FTSE and Russell Index components  
-- Authored reusable index review logic supporting multi-index platforms  
-- Designed centralized data dictionaries documenting data lineage and relationships  
-- Delivered demos and documentation to global stakeholders  
-- Evaluated Scrum maturity and managed JIRA workflows  
-
----
-
-### London Stock Exchange Group — *Business Analyst*  
-**Dec 2021 – Oct 2023**
-
-- Automated financial statement and ratio analysis for index eligibility  
-- Supported capital market surveillance and cloud data migration projects  
-- Built dashboards and conducted post-migration data validation  
-- Defined acceptance criteria and test scenarios for backend and frontend systems  
-
----
-
-### Dialog Axiata PLC — *Intern Data Analyst*  
-**Jun 2021 – Nov 2021**
-
-- Built time-series sales forecasting models using FBProphet  
-- Developed Tableau dashboards for sales performance monitoring  
-- Participated in AI Hackathon focused on consumer preference prediction  
-
----
-
-## Selected Projects
-
-### Labor Market Intelligence using NLP
-- Web-scraped job advertisements to extract skills, education, and salary insights  
-- Applied regex, Keras, and TensorFlow for entity extraction  
-- Visualized labor market trends using Power BI  
-
-### Employee Turnover Prediction
-- Built supervised ML models to predict employee attrition  
-- Cleaned and processed large unstructured datasets  
-- Delivered actionable insights for HR workforce planning  
-
----
-
-## Languages
-
-- **English** – Fluent  
-- **Sinhala** – Native  
-
----
-
-## Volunteering
-
-- Sunday School Teacher – St. Joseph’s Church, Ratmalana  
-- AIESEC Colombo South – Organizing Committee (Finance)  
-- Senior Girl Guide  
-
----
-
-## What I’m Currently Working On
-
-- Advanced data science coursework  
-- Expanding my ML and NLP project portfolio   
-      Repo Links:     
-        -  [EDA Project](https://github.com/Diluni/portfolio/tree/main/EDA%20Project)   
-        -  [Machine Learning Project](https://github.com/Diluni/portfolio/tree/main/Machine%20Learning%20Project)   
-        -  Power BI Dashboard - Coming soon!  
-  
-  
----
 
 ## Let’s Connect
 
-If you’re interested in **data science, analytics, ERP systems, or collaborative projects**, feel free to reach out via email or LinkedIn.
+If you’re interested in **data science, analytics, or collaborative projects**, feel free to reach out via email or LinkedIn.
 

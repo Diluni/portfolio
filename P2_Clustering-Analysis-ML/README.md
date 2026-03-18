@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://github.com/Diluni/portfolio/blob/main/Machine%20Learning%20Project/Assets/project-banner.png" alt="Project Banner" width="60%">
+  <img src="https://github.com/Diluni/portfolio/blob/main/P2_Clustering-Analysis-ML/Assets/project-banner.png" alt="Project Banner" width="60%">
 </p>
 
 ## Overview
 
 This project presents a comprehensive customer segmentation analysis using K-Means clustering to identify distinct customer groups based on demographic attributes, purchasing behavior, and campaign engagement. The goal is to transform raw customer data into meaningful segments that support data-driven marketing strategies and business decision-making.
+
+## Dataset
+
+**Source:**  
+*Kaggle – Customer Personality Analysis*  
+🔗 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data
+
+This dataset contains detailed information on customer demographics, purchasing behavior, and responses to marketing campaigns.
+Refer [EDA Project Overview](https://github.com/Diluni/portfolio/blob/main/P1_Customer-Personality-EDA/README.md) for detailed feature descriptions.
 
 ## Feature Analysis based on Cluster Profiles
 
